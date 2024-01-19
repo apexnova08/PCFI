@@ -1,0 +1,16 @@
+1.)
+SELECT 
+CustomerTbl.CustomerNo, CustomerTbl.UnitID, LastName, FirstName, MiddleName, EquityTerm, EquityAmount, MATerm, MAAmount, MIR, FIRE, LoanAmt, IntRate, IF(Type = 'Lot Only', LotPrice, HousePrice) AS SellingPrice
+FROM CustomerTbl
+JOIN InventoryTbl ON CustomerTbl.UnitID = InventoryTbl.UnitID
+JOIN CustomerDtl ON CustomerTbl.CustomerNo = CustomerDtl.CustomerNo
+ORDER BY CustomerTbl.UnitID
+
+2.)
+UPDATE CustomerDtl
+SET EquityTerm = 21
+WHERE CustomerNo = 739662;
+
+3.)
+DELETE CustomerTbl, CustomerDtl FROM CustomerTbl INNER JOIN CustomerDtl
+WHERE CustomerTbl.CustomerNo = CustomerDtl.CustomerNo and CustomerTbl.CustomerNo = 739664
