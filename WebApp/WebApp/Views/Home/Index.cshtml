@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class ="text-center webapp-container">
+    <h3 class="display-5">Equity Calculator</h3>
+    <form class="webapp-form" action="javascript:OnLoad()">
+        <label id="test" for="fname">Selling Price:</label><br>
+        <input type="text" id="age" name="fname"><br><br>
+        <label for="lname">Reservation Date:</label><br>
+        <input type="text" id="lname" name="lname"><br><br>
+        <label for="lname">Term:</label><br>
+        <input type="text" id="lname" name="lname"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+<div class="webapp-container">
+    <label>Balance:</label>
+    <h1 class="display-4">P0.00</h1>
+    <h4>Due Oct 7, 2022</h4><br><br>
+    <h5>Details</h5>
+    <h6>Monthly Amount</h6>
+    <label>Interest: P0.00</label><br>
+    <label>Insurance: P0.00</label>
+</div>

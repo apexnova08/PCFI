@@ -1,0 +1,31 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.webapp-container {
+    margin: 50px 100px;
+}
+.webapp-form {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px
+}
+.webapp-details-text {
+    font-size: 20px;
+}
