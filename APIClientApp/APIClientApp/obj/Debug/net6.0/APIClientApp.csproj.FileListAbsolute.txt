@@ -1,0 +1,14 @@
+D:\Sweg\0x\APIClientApp\APIClientApp\bin\Debug\net6.0\APIClientApp.deps.json
+D:\Sweg\0x\APIClientApp\APIClientApp\bin\Debug\net6.0\APIClientApp.dll
+D:\Sweg\0x\APIClientApp\APIClientApp\bin\Debug\net6.0\APIClientApp.pdb
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\APIClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\APIClientApp.AssemblyInfoInputs.cache
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\APIClientApp.AssemblyInfo.cs
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\APIClientApp.csproj.CoreCompileInputs.cache
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\APIClientApp.dll
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\refint\APIClientApp.dll
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\APIClientApp.pdb
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\ref\APIClientApp.dll
+D:\Sweg\0x\APIClientApp\APIClientApp\bin\Debug\net6.0\APIClientApp.exe
+D:\Sweg\0x\APIClientApp\APIClientApp\bin\Debug\net6.0\APIClientApp.runtimeconfig.json
+D:\Sweg\0x\APIClientApp\APIClientApp\obj\Debug\net6.0\APIClientApp.genruntimeconfig.cache
